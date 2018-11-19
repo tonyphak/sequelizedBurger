@@ -1,0 +1,25 @@
+li{
+    margin: 20px;
+}
+
+.title, .tracker, .devour, .devoured, .add {
+    background-color: beige;
+    text-align: center;
+    border: solid lightblue 5px;
+}
+body, html, .backDraft {
+    background-color: white;
+
+}
+
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#header {
+    margin-bottom: 1.5em;
+}
+
